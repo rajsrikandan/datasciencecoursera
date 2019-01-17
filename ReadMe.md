@@ -13,6 +13,6 @@
 	* `y_train.txt`
 	* `y_test.txt`
 
-**Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R)).** Note that it requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
+**Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R))
 
 **The output of the R script is a tidy data set, [tidy.csv](tidy.csv).**
