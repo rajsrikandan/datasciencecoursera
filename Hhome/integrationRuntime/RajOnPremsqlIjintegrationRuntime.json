@@ -1,0 +1,6 @@
+{
+	"name": "RajOnPremsqlIjintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
